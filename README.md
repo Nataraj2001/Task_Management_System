@@ -6,7 +6,7 @@ Backend_Api = https://vercel.com/api/toolbar/link/task-management-system-api-nin
 
 Frontend =  https://task-management-system-ui3.vercel.app
 
-Video :- https://www.loom.com/share/49e8509b2a3e46da874515c04283b3a0?sid=8a48982f-7df1-4084-971c-248413a09bcf
+Video = https://www.loom.com/share/49e8509b2a3e46da874515c04283b3a0?sid=8a48982f-7df1-4084-971c-248413a09bcf
 
 ## Features
 User Authentication: Secure login and signup functionality to keep user data private.
