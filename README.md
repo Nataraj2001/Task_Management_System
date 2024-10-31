@@ -8,18 +8,26 @@ Frontend =  https://task-management-system-ui3.vercel.app
 
 ## Features
 User Authentication: Secure login and signup functionality to keep user data private.
+
 Task CRUD Operations: Create, Read, Update, and Delete tasks with ease.
+
 Status Tracking: Track the status of tasks (e.g., In Progress, Completed).
+
 Task Prioritization: Set priorities for tasks to help users focus on the most critical items.
+
 Responsive UI: Access the application on both desktop and mobile devices.
+
 Notification Alerts: Receive alerts when tasks are due or status changes (optional).
+
 Dark Mode Support: User preference settings for light or dark mode.
-Technology Stack
+
+## Technology Stack
 Frontend: React.js, CSS, HTML, JavaScript
 Backend: Node.js, Express.js
 Database: MongoDB
 Authentication: JSON Web Token (JWT)
 Hosting : Vercel
+
 ## Installation
 1. Clone the Repository
 bash
